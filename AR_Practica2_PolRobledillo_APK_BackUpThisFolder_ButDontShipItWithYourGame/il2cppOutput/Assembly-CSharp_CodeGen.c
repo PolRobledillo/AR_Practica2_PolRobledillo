@@ -1,0 +1,90 @@
+﻿#include "pch-c.h"
+
+
+#include "codegen/il2cpp-codegen-metadata.h"
+
+
+
+
+
+extern void ARManager_Start_m076359B9D8D438AB7042625E623EBE616B7FB6E3 (void);
+extern void ARManager_LoadAssetBundles_m2F78D83E1908CB21A9E57FADB3C8BDC79C1291F4 (void);
+extern void ARManager_TryLoadAllAssetBundles_m7515782DF4073722B9FFF4B07BBC3F91BA858868 (void);
+extern void ARManager_LoadNextFBX_mA9291AFF88B7AECDA5942EC561F5C569D9E4C306 (void);
+extern void ARManager_LoadPreviousFBX_m50899A8D214E97443337F13E11CFCB8AB7541547 (void);
+extern void ARManager__ctor_m53D041B8379A885E4596A2980F29676BC9BC5931 (void);
+extern void U3CTryLoadAllAssetBundlesU3Ed__8__ctor_m7F891CE64253F6BDB7182B261BCED1EE2DBE97ED (void);
+extern void U3CTryLoadAllAssetBundlesU3Ed__8_System_IDisposable_Dispose_mA1687F684A653F8B00A6672E96E2D18F9C1229F0 (void);
+extern void U3CTryLoadAllAssetBundlesU3Ed__8_MoveNext_mD3A000C90B67E2C5A07C693CA55CF3A3D2443370 (void);
+extern void U3CTryLoadAllAssetBundlesU3Ed__8_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_m302C149A595BC9C741FDB0121FA545145AD9F342 (void);
+extern void U3CTryLoadAllAssetBundlesU3Ed__8_System_Collections_IEnumerator_Reset_mFAC8E9C5CD4B94A6016CA9FD731CFED39606AE2B (void);
+extern void U3CTryLoadAllAssetBundlesU3Ed__8_System_Collections_IEnumerator_get_Current_mF2C467E6AF58018F8603C4AE517DB1091353B993 (void);
+extern void Readme__ctor_m69C325C4C171DCB0312B646A9034AA91EA8C39C6 (void);
+extern void Section__ctor_m5F732533E4DFC0167D965E5F5DB332E46055399B (void);
+extern void VuforiaLicense_GetLicenseKey_m796D51E5EF1C53F3D62BA4EA8806AC1FB1A5E3C4 (void);
+extern void VuforiaLicense__ctor_m094B92B3323DFFD79ADB696474D5D158C95E291B (void);
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_mBEB95BEB954BB63E9710BBC7AD5E78C4CB0A0033 (void);
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_mE70FB23ACC1EA12ABC948AA22C2E78B2D0AA39B1 (void);
+static Il2CppMethodPointer s_methodPointers[18] = 
+{
+	ARManager_Start_m076359B9D8D438AB7042625E623EBE616B7FB6E3,
+	ARManager_LoadAssetBundles_m2F78D83E1908CB21A9E57FADB3C8BDC79C1291F4,
+	ARManager_TryLoadAllAssetBundles_m7515782DF4073722B9FFF4B07BBC3F91BA858868,
+	ARManager_LoadNextFBX_mA9291AFF88B7AECDA5942EC561F5C569D9E4C306,
+	ARManager_LoadPreviousFBX_m50899A8D214E97443337F13E11CFCB8AB7541547,
+	ARManager__ctor_m53D041B8379A885E4596A2980F29676BC9BC5931,
+	U3CTryLoadAllAssetBundlesU3Ed__8__ctor_m7F891CE64253F6BDB7182B261BCED1EE2DBE97ED,
+	U3CTryLoadAllAssetBundlesU3Ed__8_System_IDisposable_Dispose_mA1687F684A653F8B00A6672E96E2D18F9C1229F0,
+	U3CTryLoadAllAssetBundlesU3Ed__8_MoveNext_mD3A000C90B67E2C5A07C693CA55CF3A3D2443370,
+	U3CTryLoadAllAssetBundlesU3Ed__8_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_m302C149A595BC9C741FDB0121FA545145AD9F342,
+	U3CTryLoadAllAssetBundlesU3Ed__8_System_Collections_IEnumerator_Reset_mFAC8E9C5CD4B94A6016CA9FD731CFED39606AE2B,
+	U3CTryLoadAllAssetBundlesU3Ed__8_System_Collections_IEnumerator_get_Current_mF2C467E6AF58018F8603C4AE517DB1091353B993,
+	Readme__ctor_m69C325C4C171DCB0312B646A9034AA91EA8C39C6,
+	Section__ctor_m5F732533E4DFC0167D965E5F5DB332E46055399B,
+	VuforiaLicense_GetLicenseKey_m796D51E5EF1C53F3D62BA4EA8806AC1FB1A5E3C4,
+	VuforiaLicense__ctor_m094B92B3323DFFD79ADB696474D5D158C95E291B,
+	UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_mBEB95BEB954BB63E9710BBC7AD5E78C4CB0A0033,
+	UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_mE70FB23ACC1EA12ABC948AA22C2E78B2D0AA39B1,
+};
+static const int32_t s_InvokerIndices[18] = 
+{
+	15295,
+	15295,
+	15081,
+	15295,
+	15295,
+	15295,
+	11579,
+	15295,
+	14886,
+	15081,
+	15295,
+	15081,
+	15295,
+	15295,
+	25671,
+	15295,
+	25793,
+	15295,
+};
+IL2CPP_EXTERN_C const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule;
+const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule = 
+{
+	"Assembly-CSharp.dll",
+	18,
+	s_methodPointers,
+	0,
+	NULL,
+	s_InvokerIndices,
+	0,
+	NULL,
+	0,
+	NULL,
+	0,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+};
